@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="content_text">Hai Nama saya Yusuf Ma\'iin Rohmatulloh. Salah satu Mahasiswa Universitas PGRI Semarang Program Studi Informatika </string>
+    <string name="content_specs_lahir">20 Mei 1998</string>
+    <string name="content_specs_hobi">Game, Tenis Meja, Ngememe</string>
+    <string name="content_specs_aktif">DPO Hima Informatika \n
+    Fungsionaris BEM Universitas PGRI Semarang \n
+    Putra Kampus 2019
+    </string>
+    <string name="detail">Detail</string>
+    <string name="lahir">Lahir</string>
+    <string name="hobi">Hobi</string>
+    <string name="kegiatan">Aktifitas Kampus</string>
+    <string name="buat">Tugas ini dibuat oleh</string>
+    <string name="my_name">
+        Nama : Yusuf Ma\'iin Rohmatuloh \n
+        Npm : 17670027
+    </string>
+    <string name="uts">UTS</string>
+    <string name="dummy_value">Yusuf Ma\'iin Rohmatuulloh</string>
+    <string name="dummy_photos">2 photos</string>
+    <style name="TextContent" parent="@style/TextAppearance.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+    </style>
+    <style name="TextContent.Small">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Small</item>
+    </style>
+    <style name="TextContent.Small.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="TextContent.Subtitle">
+        <item name="android:textColor">@color/colorSubTitle</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="TextContent.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="TextSpec">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextSpec.Field">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:textColor">@color/colorSubTitle</item>
+    </style>
+    <style name="TextSpec.Value">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>
